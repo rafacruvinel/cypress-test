@@ -1,0 +1,8 @@
+{ 
+    "testFiles": "**/*.spec.js",
+    "baseUrl": "https://www.fleury.com.br",
+    "viewportWidth": 1280,
+    "viewportHeight": 720,
+    "chromeWebSecurity": false,
+    "firefoxbSecurity": false
+}
